@@ -1,0 +1,50 @@
+[
+  {"name":"S.Mi","size":1,"imports":["SE"]},
+  {"name":"S.Ma","size":1,"imports":["SE"]},
+  {"name":"S.Ka","size":1,"imports":["SE"]},
+  {"name":"S.Fr","size":1,"imports":["SE"]},
+  {"name":"S.Ma","size":1,"imports":["SE"]},
+  {"name":"S.Br","size":1,"imports":["SE"]},
+  {"name":"S.Ch","size":1,"imports":["QA"]},
+
+  {"name":"J.Se","size":1,"imports":["Java"]},
+  {"name":"J.Fe","size":1,"imports":["Java"]},
+  {"name":"J.Ju","size":1,"imports":["Java"]},
+  {"name":"J.Pa","size":1,"imports":["Java"]},
+
+  {"name":"A.No","size":1,"imports":["Java"]},
+  {"name":"A.Je","size":1,"imports":["PHP", "Java"]},
+  {"name":"A.Ma","size":1,"imports":["Java"]},
+  {"name":"A.Ph","size":1,"imports":["PHP", "JavaScript"]},
+  {"name":"A.Mi","size":1,"imports":["QA"]},
+
+  {"name":"O.Ge","size":3,"imports":["Java", "JavaScript"]},
+  {"name":"O.Ni","size":1,"imports":["JavaScript"]},
+  {"name":"O.Ch","size":1,"imports":["PHP"]},
+  {"name":"O.Bi","size":1,"imports":["QA"]},
+
+  {"name":"C.Mi","size":1,"imports":["Java", "JavaScript", "FE"]},
+  {"name":"C.Ma","size":1,"imports":["FE"]},
+  {"name":"C.Fl","size":1,"imports":["JavaScript", "FE"]},
+
+  {"name":"W.Se","size":1,"imports":["SE"]},
+  {"name":"W.Ti","size":1,"imports":["SE"]},
+
+  {"name":"N.Ra","size":1,"imports":["Java"]},
+  {"name":"N.Ka","size":1,"imports":["Java"]},
+  {"name":"N.Ar","size":1,"imports":["Java"]},
+  {"name":"N.Ro","size":1,"imports":["QA"]},
+  {"name":"N.Ja","size":1,"imports":["Java"]},
+
+  {"name":"D.An","size":1,"imports":["FE"]},
+  {"name":"D.Ad","size":1,"imports":["FE"]},
+  {"name":"D.Fl","size":1,"imports":["FE"]},
+
+  {"name":"JavaScript","size":1,"imports":[]},
+  {"name":"Java","size":1,"imports":[]},
+  {"name":"SE","size":1,"imports":[]},
+  {"name":"PHP","size":1,"imports":[]},
+  {"name":"FE","size":1,"imports":[]},
+  {"name":"QA","size":1,"imports":[]}
+
+]
